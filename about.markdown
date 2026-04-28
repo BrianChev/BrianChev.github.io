@@ -8,7 +8,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 <ul>
 <li>
-<a href="{{  }}">{{ PostTesting }}</a>
+<a href="{{ 2026-04-28-post-testing }}">{{ PostTesting }}</a>
 </li>
 </ul>
 
