@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "PostTesting"
+title: PostTesting
 
 ---
 
