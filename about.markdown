@@ -12,7 +12,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 </li>
 </ul>
 
-[2026-04-28-post-testing]
+[TestPosting][2026-04-28-post-testing]
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
